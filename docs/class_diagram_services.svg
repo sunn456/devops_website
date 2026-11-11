@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1390" viewBox="0 0 1600 1390" font-family="Times New Roman, Times, serif">
+<defs>
+<marker id="diamond" viewBox="0 0 20 10" refX="20" refY="5" markerWidth="20" markerHeight="10" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
+  <path d="M0,5 L10,0 L20,5 L10,10 z" fill="#000"/></marker>
+<marker id="odiamond" viewBox="0 0 20 10" refX="20" refY="5" markerWidth="20" markerHeight="10" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
+  <path d="M0,5 L10,0 L20,5 L10,10 z" fill="#fff" stroke="#000"/></marker>
+<marker id="open" viewBox="0 0 12 12" refX="12" refY="6" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+  <path d="M0,0 L12,6 L0,12" fill="none" stroke="#000" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 16 16" refX="16" refY="8" markerWidth="16" markerHeight="16" orient="auto" markerUnits="userSpaceOnUse">
+  <path d="M0,0 L16,8 L0,16 z" fill="#fff" stroke="#000" stroke-width="1.2"/></marker>
+</defs>
+<rect width="1600" height="1390" fill="#fff"/>
+<g transform="translate(0,0)">
+<polyline points="480,330 480,110" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="486" y="303" text-anchor="start" font-size="13">1</text>
+<text x="486" y="128" text-anchor="start" font-size="13">1</text>
+<polyline points="820,330 820,182" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="826" y="303" text-anchor="start" font-size="13">1</text>
+<text x="826" y="200" text-anchor="start" font-size="13">1</text>
+<polyline points="880,330 880,295 1360,295 1360,254" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="886" y="303" text-anchor="start" font-size="13">1</text>
+<text x="1366" y="272" text-anchor="start" font-size="13">1</text>
+<polyline points="900,420 1000,420" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="924" y="415" text-anchor="start" font-size="13">1</text>
+<text x="995" y="436" text-anchor="end" font-size="13">1</text>
+<polyline points="900,640 1000,640" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="924" y="635" text-anchor="start" font-size="13">1</text>
+<text x="995" y="656" text-anchor="end" font-size="13">1</text>
+<polyline points="500,816 500,900" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="506" y="853" text-anchor="start" font-size="13">1</text>
+<text x="506" y="892" text-anchor="start" font-size="13">1</text>
+<polyline points="500,1098 500,1170" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#odiamond)" marker-end="url(#open)"/>
+<text x="506" y="1135" text-anchor="start" font-size="13">1</text>
+<text x="506" y="1162" text-anchor="start" font-size="13">1</text>
+<polyline points="840,1230 740,1230" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="7,5" marker-end="url(#tri)"/>
+<polyline points="300,410 240,410" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="7,5" marker-end="url(#open)"/>
+<text x="270" y="402" text-anchor="middle" font-size="13" font-style="italic">«use»</text>
+<polyline points="280,65 240,65" fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="7,5" marker-end="url(#open)"/>
+<text x="260" y="57" text-anchor="middle" font-size="13" font-style="italic">«create»</text>
+<rect x="20" y="20" width="220" height="126" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="130.0" y="40" text-anchor="middle" font-size="13">«dataclass»</text>
+<text x="130.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">PriceBreakdown</text>
+<line x1="20" y1="68" x2="240" y2="68" stroke="#000"/>
+<text x="28" y="88" font-size="14">- lines: list[PriceLine]</text>
+<line x1="20" y1="98" x2="240" y2="98" stroke="#000"/>
+<text x="28" y="118" font-size="14">+ total(): Decimal</text>
+<text x="28" y="136" font-size="14">+ as_dict(): dict</text>
+<rect x="280" y="20" width="400" height="90" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="480.0" y="40" text-anchor="middle" font-size="13">«service»</text>
+<text x="480.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">PriceCalculator</text>
+<line x1="280" y1="68" x2="680" y2="68" stroke="#000"/>
+<line x1="280" y1="80" x2="680" y2="80" stroke="#000"/>
+<text x="288" y="100" font-size="14">+ calculate(departure, group, passes, activities): PriceBreakdown</text>
+<rect x="710" y="20" width="400" height="162" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="910.0" y="40" text-anchor="middle" font-size="13">«service»</text>
+<text x="910.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">SelectionValidator</text>
+<line x1="710" y1="68" x2="1110" y2="68" stroke="#000"/>
+<line x1="710" y1="80" x2="1110" y2="80" stroke="#000"/>
+<text x="718" y="100" font-size="14">+ validate(departure, group, passes, activities)</text>
+<text x="718" y="118" font-size="14">- _validate_departure(departure, today)</text>
+<text x="718" y="136" font-size="14">- _validate_group(group)</text>
+<text x="718" y="154" font-size="14">- _validate_ski_passes(departure, group, passes)</text>
+<text x="718" y="172" font-size="14">- _validate_activities(departure, group, activities)</text>
+<rect x="1140" y="20" width="440" height="234" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1360.0" y="40" text-anchor="middle" font-size="13">«service»</text>
+<text x="1360.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">SeatService</text>
+<line x1="1140" y1="68" x2="1580" y2="68" stroke="#000"/>
+<text x="1148" y="88" font-size="14">- hold_minutes: int</text>
+<line x1="1140" y1="98" x2="1580" y2="98" stroke="#000"/>
+<text x="1148" y="118" font-size="14">+ lock_departures(*ids): dict</text>
+<text x="1148" y="136" font-size="14">+ occupied_seats(departure): int</text>
+<text x="1148" y="154" font-size="14">+ free_seats(departure): int</text>
+<text x="1148" y="172" font-size="14">+ ensure_available(departure, seats)</text>
+<text x="1148" y="190" font-size="14">+ hold(departure, booking, seats, change_request): SeatHold</text>
+<text x="1148" y="208" font-size="14">+ release_holds(booking, change_request): int</text>
+<text x="1148" y="226" font-size="14">+ active_hold(booking): SeatHold</text>
+<text x="1148" y="244" font-size="14">+ expired_holds(now): QuerySet</text>
+<rect x="20" y="330" width="220" height="162" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="130.0" y="350" text-anchor="middle" font-size="13">«dataclass»</text>
+<text x="130.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">GroupComposition</text>
+<line x1="20" y1="378" x2="240" y2="378" stroke="#000"/>
+<text x="28" y="398" font-size="14">- adults: int</text>
+<text x="28" y="416" font-size="14">- children: int</text>
+<text x="28" y="434" font-size="14">- infants: int</text>
+<line x1="20" y1="444" x2="240" y2="444" stroke="#000"/>
+<text x="28" y="464" font-size="14">+ seats(): int</text>
+<text x="28" y="482" font-size="14">+ participants(): int</text>
+<rect x="300" y="330" width="600" height="486" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="600.0" y="350" text-anchor="middle" font-size="13">«service»</text>
+<text x="600.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">BookingService</text>
+<line x1="300" y1="378" x2="900" y2="378" stroke="#000"/>
+<text x="308" y="398" font-size="14">- validator: SelectionValidator</text>
+<text x="308" y="416" font-size="14">- calculator: PriceCalculator</text>
+<text x="308" y="434" font-size="14">- seats: SeatService</text>
+<text x="308" y="452" font-size="14">- policy: BookingPolicy</text>
+<text x="308" y="470" font-size="14">- payments: PaymentService</text>
+<text x="308" y="488" font-size="14">- notifier: NotificationService</text>
+<line x1="300" y1="498" x2="900" y2="498" stroke="#000"/>
+<text x="308" y="518" font-size="14">+ quote(departure, group, passes, activities): PriceBreakdown</text>
+<text x="308" y="536" font-size="14">+ create_booking(departure_id, group, passes, activities, contact): CheckoutResult</text>
+<text x="308" y="554" font-size="14">+ restart_payment(booking_id): CheckoutResult</text>
+<text x="308" y="572" font-size="14">+ on_payment_result(payment): Booking</text>
+<text x="308" y="590" font-size="14">+ find_by_code(code, email): Booking</text>
+<text x="308" y="608" font-size="14">+ confirm(booking_id): Booking</text>
+<text x="308" y="626" font-size="14">+ preview_cancellation(booking): dict</text>
+<text x="308" y="644" font-size="14">+ cancel(booking_id, by, reason, full_refund): CancellationResult</text>
+<text x="308" y="662" font-size="14">+ retry_refund(refund_id): Refund</text>
+<text x="308" y="680" font-size="14">+ cancel_departure(departure_id, reason): list</text>
+<text x="308" y="698" font-size="14">+ quote_change(booking, departure_id, group, passes, activities): dict</text>
+<text x="308" y="716" font-size="14">+ request_change(booking_id, departure_id, group, passes, activities): ChangeResult</text>
+<text x="308" y="734" font-size="14">+ expire_holds(now): dict</text>
+<text x="308" y="752" font-size="14">- _mark_paid(payment): Booking</text>
+<text x="308" y="770" font-size="14">- _apply_change(change_request)</text>
+<text x="308" y="788" font-size="14">- _finalize_cancellation(booking, by, reason)</text>
+<text x="308" y="806" font-size="14">- _generate_code(): str</text>
+<rect x="1000" y="330" width="440" height="180" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1220.0" y="350" text-anchor="middle" font-size="13">«service»</text>
+<text x="1220.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">BookingPolicy</text>
+<line x1="1000" y1="378" x2="1440" y2="378" stroke="#000"/>
+<text x="1008" y="398" font-size="14">- free_days: int</text>
+<line x1="1000" y1="408" x2="1440" y2="408" stroke="#000"/>
+<text x="1008" y="428" font-size="14">+ days_before_start(booking): int</text>
+<text x="1008" y="446" font-size="14">+ is_free_period(booking): bool</text>
+<text x="1008" y="464" font-size="14">+ cancellation_refund(booking, paid_amount): Decimal</text>
+<text x="1008" y="482" font-size="14">+ ensure_can_cancel(booking)</text>
+<text x="1008" y="500" font-size="14">+ ensure_can_change(booking)</text>
+<rect x="1000" y="570" width="440" height="144" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1220.0" y="590" text-anchor="middle" font-size="13">«service»</text>
+<text x="1220.0" y="608" text-anchor="middle" font-weight="bold" font-size="15">NotificationService</text>
+<line x1="1000" y1="618" x2="1440" y2="618" stroke="#000"/>
+<line x1="1000" y1="630" x2="1440" y2="630" stroke="#000"/>
+<text x="1008" y="650" font-size="14">+ send_booking_code(booking)</text>
+<text x="1008" y="668" font-size="14">+ send_cancellation(booking)</text>
+<text x="1008" y="686" font-size="14">+ send_change_applied(booking)</text>
+<text x="1008" y="704" font-size="14">- _send(to, subject, body)</text>
+<rect x="1000" y="800" width="440" height="144" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1220.0" y="820" text-anchor="middle" font-size="13">«service»</text>
+<text x="1220.0" y="838" text-anchor="middle" font-weight="bold" font-size="15">ReportService</text>
+<line x1="1000" y1="848" x2="1440" y2="848" stroke="#000"/>
+<line x1="1000" y1="860" x2="1440" y2="860" stroke="#000"/>
+<text x="1008" y="880" font-size="14">+ bookings_summary(date_from, date_to): dict</text>
+<text x="1008" y="898" font-size="14">+ revenue(date_from, date_to): dict</text>
+<text x="1008" y="916" font-size="14">+ popular_tours(date_from, date_to, limit): list</text>
+<text x="1008" y="934" font-size="14">+ popular_resorts(date_from, date_to): list</text>
+<rect x="300" y="900" width="480" height="198" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="540.0" y="920" text-anchor="middle" font-size="13">«service»</text>
+<text x="540.0" y="938" text-anchor="middle" font-weight="bold" font-size="15">PaymentService</text>
+<line x1="300" y1="948" x2="780" y2="948" stroke="#000"/>
+<text x="308" y="968" font-size="14">- gateway: PaymentGateway</text>
+<line x1="300" y1="978" x2="780" y2="978" stroke="#000"/>
+<text x="308" y="998" font-size="14">+ start_payment(booking, amount, kind, change_request): (Payment, str)</text>
+<text x="308" y="1016" font-size="14">+ handle_webhook(body, signature): (Payment, bool)</text>
+<text x="308" y="1034" font-size="14">+ net_paid(booking): Decimal</text>
+<text x="308" y="1052" font-size="14">+ refund(booking, amount, reason): list[Refund]</text>
+<text x="308" y="1070" font-size="14">+ retry_refund(refund): Refund</text>
+<text x="308" y="1088" font-size="14">- _execute(refund)</text>
+<rect x="300" y="1170" width="440" height="126" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="520.0" y="1190" text-anchor="middle" font-size="13">«interface»</text>
+<text x="520.0" y="1208" text-anchor="middle" font-weight="bold" font-size="15" font-style="italic">PaymentGateway</text>
+<line x1="300" y1="1218" x2="740" y2="1218" stroke="#000"/>
+<line x1="300" y1="1230" x2="740" y2="1230" stroke="#000"/>
+<text x="308" y="1250" font-size="14">+ create_checkout(payment): CheckoutSession</text>
+<text x="308" y="1268" font-size="14">+ verify_signature(body, signature): bool</text>
+<text x="308" y="1286" font-size="14">+ refund(payment_ref, amount): GatewayRefundResult</text>
+<rect x="840" y="1170" width="440" height="198" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1060.0" y="1190" text-anchor="middle" font-size="13">«service»</text>
+<text x="1060.0" y="1208" text-anchor="middle" font-weight="bold" font-size="15">TestPaymentGateway</text>
+<line x1="840" y1="1218" x2="1280" y2="1218" stroke="#000"/>
+<text x="848" y="1238" font-size="14">- secret: bytes</text>
+<text x="848" y="1256" font-size="14">- fail_refunds: bool</text>
+<line x1="840" y1="1266" x2="1280" y2="1266" stroke="#000"/>
+<text x="848" y="1286" font-size="14">+ create_checkout(payment): CheckoutSession</text>
+<text x="848" y="1304" font-size="14">+ verify_signature(body, signature): bool</text>
+<text x="848" y="1322" font-size="14">+ charge(provider_ref, card_number): (bytes, str)</text>
+<text x="848" y="1340" font-size="14">+ sign(body): str</text>
+<text x="848" y="1358" font-size="14">+ refund(payment_ref, amount): GatewayRefundResult</text>
+</g></svg>

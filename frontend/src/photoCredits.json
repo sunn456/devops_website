@@ -1,0 +1,320 @@
+[
+  {
+    "key": "hero",
+    "caption": "Зимові Карпати на світанку (головна сторінка)",
+    "title": "",
+    "author": "Олександр Котенко",
+    "license": "Усі права належать автору",
+    "license_url": "",
+    "source": ""
+  },
+  {
+    "key": "bukovel",
+    "caption": "Буковель: долина з готелем і трасами",
+    "title": "",
+    "author": "фото надане власником проєкту (автора не вказано)",
+    "license": "Права належать автору фото",
+    "license_url": "",
+    "source": ""
+  },
+  {
+    "key": "bukovel-2",
+    "caption": "Траси Буковеля взимку",
+    "title": "Поляниця. буковель.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D1%86%D1%8F._%D0%B1%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C.jpg"
+  },
+  {
+    "key": "dragobrat",
+    "caption": "Драгобрат: підйомник над хмарами",
+    "title": "",
+    "author": "фото надане власником проєкту (автора не вказано)",
+    "license": "Права належать автору фото",
+    "license_url": "",
+    "source": ""
+  },
+  {
+    "key": "dragobrat-2",
+    "caption": "Зимова завірюха на Драгобраті",
+    "title": "Зимова завірюха.jpg",
+    "author": "Тарас Лесів",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B7%D0%B0%D0%B2%D1%96%D1%80%D1%8E%D1%85%D0%B0.jpg"
+  },
+  {
+    "key": "yablunytsia",
+    "caption": "Яблуниця: засніжена гора",
+    "title": "",
+    "author": "фото надане власником проєкту (автора не вказано)",
+    "license": "Права належать автору фото",
+    "license_url": "",
+    "source": ""
+  },
+  {
+    "key": "yablunytsia-2",
+    "caption": "Садиба в Яблуниці взимку",
+    "title": "Yablunytsia at night (04).jpg",
+    "author": "Vasyatka1",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yablunytsia_at_night_(04).jpg"
+  },
+  {
+    "key": "bansko",
+    "caption": "Банско: вид на місто з траси",
+    "title": "",
+    "author": "фото надане власником проєкту (автора не вказано)",
+    "license": "Права належать автору фото",
+    "license_url": "",
+    "source": ""
+  },
+  {
+    "key": "bansko-2",
+    "caption": "Траса серед лісу в Банско",
+    "title": "Bansko ski 2025 7.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bansko_ski_2025_7.jpg"
+  },
+  {
+    "key": "admin",
+    "caption": "Панорама зимових Карпат біля Буковеля",
+    "title": "Поляниця. Буковель. Зима-5.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D1%86%D1%8F._%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C._%D0%97%D0%B8%D0%BC%D0%B0-5.jpg"
+  },
+  {
+    "key": "hotels/marion-spa-bukovel-1",
+    "caption": "Готель Marion Spa Bukovel Hotel, 9 фото",
+    "title": "",
+    "author": "фото з галереї готелю на сайті туроператора «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/bukovel/marion-spa-bukovel-hotel",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/ribas-karpaty-night",
+    "caption": "Готель Ribas Karpaty, 11 фото",
+    "title": "",
+    "author": "фото з галереї готелю на сайті туроператора «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/bukovel/ribas-karpaty",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/premium-hotel-spa-winter",
+    "caption": "Готель Premium Hotel & SPA, 11 фото",
+    "title": "",
+    "author": "обкладинка — фото, надане власником проєкту; номери та зал — Booking.com; басейн, бар, сауна — «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/bukovel/premium-hotel-spa",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/alpin-eco-chalet-1",
+    "caption": "Готель Alpin Eco Chalet & Wellness, 12 фото",
+    "title": "",
+    "author": "фото з галереї готелю на Booking.com",
+    "license": "Права належать готелю / Booking.com",
+    "license_url": "",
+    "source": "https://www.booking.com/hotel/ua/alpin-eco-chalet-amp-wellness.html",
+    "source_label": "Сторінка готелю на Booking.com"
+  },
+  {
+    "key": "hotels/gremi-hotel-1",
+    "caption": "Готель Gremi Hotel, 12 фото",
+    "title": "",
+    "author": "номери — Booking.com; решта — «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/dragobrat/gremi-hotel",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/migali-dragobrat-1",
+    "caption": "Готель Мігалі Драгобрат, 12 фото",
+    "title": "",
+    "author": "фото з галереї готелю на сайті туроператора «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/dragobrat/migali-dragobrat",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/forest-hill-spa-winter",
+    "caption": "Готель Forest Hill Hotel & SPA, 12 фото",
+    "title": "",
+    "author": "обкладинка — фото, надане власником проєкту; решта — «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/yablunica/forest-hill-hotel-spa",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/villa-parlament-1",
+    "caption": "Готель Вілла Парламент, 12 фото",
+    "title": "",
+    "author": "фото з галереї готелю на сайті туроператора «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/yablunica/villa-parlament",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/gogodz-chalet-1",
+    "caption": "Готель Gogodz Chalet Resort, 10 фото",
+    "title": "",
+    "author": "фото з галереї готелю на сайті туроператора «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/ukraine/yablunica/gogodz-chalet-resort",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "hotels/st-george-palace-w1",
+    "caption": "Готель St. George Palace Bansko, 12 фото",
+    "title": "",
+    "author": "фото з галереї готелю на Booking.com",
+    "license": "Права належать готелю / Booking.com",
+    "license_url": "",
+    "source": "https://www.booking.com/hotel/bg/st-george-palace.html",
+    "source_label": "Сторінка готелю на Booking.com"
+  },
+  {
+    "key": "hotels/royal-park-spa-winter",
+    "caption": "Готель Royal Park & SPA, 12 фото",
+    "title": "",
+    "author": "фото з галереї готелю на Booking.com",
+    "license": "Права належать готелю / Booking.com",
+    "license_url": "",
+    "source": "https://www.booking.com/hotel/bg/royal-park-bansko.uk.html",
+    "source_label": "Сторінка готелю на Booking.com"
+  },
+  {
+    "key": "hotels/st-george-ski-holiday-1",
+    "caption": "Готель St. George Ski & Holiday, 12 фото",
+    "title": "",
+    "author": "фото номера — надане власником проєкту; решта — «Поїхали з нами»",
+    "license": "Права належать готелю / туроператору",
+    "license_url": "",
+    "source": "https://www.poehalisnami.ua/ua/hotels/bolgariya/bansko/st-george-ski-holiday",
+    "source_label": "Сторінка готелю"
+  },
+  {
+    "key": "banners/bukovel-1",
+    "caption": "Банер: Засніжені Карпати над Поляницею",
+    "title": "Поляниця. Буковель. Зима-3.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D1%86%D1%8F._%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C._%D0%97%D0%B8%D0%BC%D0%B0-3.jpg"
+  },
+  {
+    "key": "banners/bukovel-2",
+    "caption": "Банер: Панорама зимових Карпат біля Буковеля",
+    "title": "Поляниця. Буковель. Зима-4.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D1%86%D1%8F._%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C._%D0%97%D0%B8%D0%BC%D0%B0-4.jpg"
+  },
+  {
+    "key": "banners/bukovel-3",
+    "caption": "Банер: Світанок у зимових Карпатах",
+    "title": "Sunrise in the winter Carpathians.jpg",
+    "author": "I.am.wiz",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_in_the_winter_Carpathians.jpg"
+  },
+  {
+    "key": "banners/dragobrat-1",
+    "caption": "Банер: Гора Стримба взимку",
+    "title": "Гора Стримба взимку.jpg",
+    "author": "Ryzhkov Sergey",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D1%80%D0%B0_%D0%A1%D1%82%D1%80%D0%B8%D0%BC%D0%B1%D0%B0_%D0%B2%D0%B7%D0%B8%D0%BC%D0%BA%D1%83.jpg"
+  },
+  {
+    "key": "banners/dragobrat-2",
+    "caption": "Банер: Дземброня взимку",
+    "title": "Dzembronya winter.jpg",
+    "author": "Taras r",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dzembronya_winter.jpg"
+  },
+  {
+    "key": "banners/dragobrat-3",
+    "caption": "Банер: Засніжений схил Говерли",
+    "title": "Засніжений схил Говерли.jpg",
+    "author": "Nata Mostova",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D1%81%D0%BD%D1%96%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D1%81%D1%85%D0%B8%D0%BB_%D0%93%D0%BE%D0%B2%D0%B5%D1%80%D0%BB%D0%B8.jpg"
+  },
+  {
+    "key": "banners/yablunytsia-1",
+    "caption": "Банер: Зимовий Петрос",
+    "title": "Winter Petros in the Carpathians.jpg",
+    "author": "I.am.wiz",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winter_Petros_in_the_Carpathians.jpg"
+  },
+  {
+    "key": "banners/yablunytsia-2",
+    "caption": "Банер: Морозний ранок над Яремчею",
+    "title": "Морозний ранок над Яремчею.jpg",
+    "author": "Vitalii Bashkatov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D0%B8%D0%B9_%D1%80%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D0%B5%D1%8E.jpg"
+  },
+  {
+    "key": "banners/yablunytsia-3",
+    "caption": "Банер: Зимові Карпати в тумані біля Поляниці",
+    "title": "Поляниця. Буковель. Зима-6.jpg",
+    "author": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D1%86%D1%8F._%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C._%D0%97%D0%B8%D0%BC%D0%B0-6.jpg"
+  },
+  {
+    "key": "banners/bansko-1",
+    "caption": "Банер: Вихрен і Кутело, Пірін",
+    "title": "Vihren & Kutelo Pirin Mountains Bulgaria 2025.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg"
+  },
+  {
+    "key": "banners/bansko-2",
+    "caption": "Банер: Засніжений Пірін над Банско",
+    "title": "Bansko ski 2025 23.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bansko_ski_2025_23.jpg"
+  },
+  {
+    "key": "banners/bansko-3",
+    "caption": "Банер: Вершини Піріну взимку",
+    "title": "Bansko ski 2025 25.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bansko_ski_2025_25.jpg"
+  }
+]

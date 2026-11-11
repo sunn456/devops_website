@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="1230" viewBox="0 0 1420 1230" font-family="Times New Roman, Times, serif">
+<defs>
+<marker id="diamond" viewBox="0 0 20 10" refX="20" refY="5" markerWidth="20" markerHeight="10" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
+  <path d="M0,5 L10,0 L20,5 L10,10 z" fill="#000"/></marker>
+<marker id="odiamond" viewBox="0 0 20 10" refX="20" refY="5" markerWidth="20" markerHeight="10" orient="auto-start-reverse" markerUnits="userSpaceOnUse">
+  <path d="M0,5 L10,0 L20,5 L10,10 z" fill="#fff" stroke="#000"/></marker>
+<marker id="open" viewBox="0 0 12 12" refX="12" refY="6" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+  <path d="M0,0 L12,6 L0,12" fill="none" stroke="#000" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 16 16" refX="16" refY="8" markerWidth="16" markerHeight="16" orient="auto" markerUnits="userSpaceOnUse">
+  <path d="M0,0 L16,8 L0,16 z" fill="#fff" stroke="#000" stroke-width="1.2"/></marker>
+</defs>
+<rect width="1420" height="1230" fill="#fff"/>
+<g transform="translate(30,0)">
+<polyline points="270,90 330,90" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="275" y="85" text-anchor="start" font-size="13">1</text>
+<text x="325" y="106" text-anchor="end" font-size="13">0..*</text>
+<polyline points="600,100 670,100" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="605" y="95" text-anchor="start" font-size="13">1</text>
+<text x="665" y="116" text-anchor="end" font-size="13">0..*</text>
+<polyline points="145.0,170 145.0,330" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="151.0" y="188" text-anchor="start" font-size="13">1</text>
+<text x="151.0" y="322" text-anchor="start" font-size="13">0..*</text>
+<polyline points="20,60 8,60 8,615 20,615" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="4" y="54" text-anchor="end" font-size="13">0..1</text><text x="4" y="633" text-anchor="end" font-size="13">0..*</text>
+<polyline points="820,254 820,330" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="826" y="272" text-anchor="start" font-size="13">1</text>
+<text x="826" y="322" text-anchor="start" font-size="13">0..*</text>
+<polyline points="270,414 330,414" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="275" y="409" text-anchor="start" font-size="13">1</text>
+<text x="325" y="430" text-anchor="end" font-size="13">0..*</text>
+<polyline points="670,414 600,414" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#diamond)"/>
+<text x="646" y="409" text-anchor="end" font-size="13">1</text>
+<text x="605" y="430" text-anchor="start" font-size="13">0..*</text>
+<polyline points="270,600 330,600" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="275" y="595" text-anchor="start" font-size="13">1</text>
+<text x="325" y="616" text-anchor="end" font-size="13">0..*</text>
+<polyline points="670,600 600,600" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#diamond)"/>
+<text x="646" y="595" text-anchor="end" font-size="13">1</text>
+<text x="605" y="616" text-anchor="start" font-size="13">0..*</text>
+<polyline points="970,200 1190,200 1190,330" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="975" y="195" text-anchor="start" font-size="13">1</text>
+<text x="1196" y="322" text-anchor="start" font-size="13">0..*</text>
+<polyline points="970,420 1040,420" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="975" y="415" text-anchor="start" font-size="13">1</text>
+<text x="1035" y="436" text-anchor="end" font-size="13">0..*</text>
+<polyline points="1100,580 1100,516" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="1106" y="572" text-anchor="start" font-size="13">0..1</text>
+<text x="1106" y="534" text-anchor="start" font-size="13">0..*</text>
+<polyline points="970,620 1040,620" fill="none" stroke="#000" stroke-width="1.2" marker-start="url(#diamond)"/>
+<text x="994" y="615" text-anchor="start" font-size="13">1</text>
+<text x="1035" y="636" text-anchor="end" font-size="13">0..*</text>
+<polyline points="1340,700 1368,700 1368,60 970,60" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="1345" y="695" text-anchor="start" font-size="13">0..*</text>
+<text x="975" y="76" text-anchor="start" font-size="13">1</text>
+<text x="1230" y="52" text-anchor="middle" font-size="13" font-style="italic">new_departure</text>
+<polyline points="895,672 895,740" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="901" y="690" text-anchor="start" font-size="13">1</text>
+<text x="901" y="732" text-anchor="start" font-size="13">0..*</text>
+<polyline points="1040,800 970,800" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="1035" y="795" text-anchor="end" font-size="13">0..1</text>
+<text x="975" y="816" text-anchor="start" font-size="13">0..*</text>
+<polyline points="895,944 895,1010" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="901" y="962" text-anchor="start" font-size="13">1</text>
+<text x="901" y="1002" text-anchor="start" font-size="13">0..*</text>
+<polyline points="690,672 690,1010" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="696" y="690" text-anchor="start" font-size="13">1</text>
+<text x="696" y="1002" text-anchor="start" font-size="13">0..*</text>
+<rect x="20" y="20" width="250" height="150" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="145.0" y="40" text-anchor="middle" font-size="13">«model»</text>
+<text x="145.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">Resort</text>
+<line x1="20" y1="68" x2="270" y2="68" stroke="#000"/>
+<text x="28" y="88" font-size="14">- id: int</text>
+<text x="28" y="106" font-size="14">- name: str</text>
+<text x="28" y="124" font-size="14">- country: str</text>
+<text x="28" y="142" font-size="14">- description: str</text>
+<text x="28" y="160" font-size="14">- is_active: bool</text>
+<rect x="330" y="20" width="270" height="222" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="465.0" y="40" text-anchor="middle" font-size="13">«model»</text>
+<text x="465.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">Tour</text>
+<line x1="330" y1="68" x2="600" y2="68" stroke="#000"/>
+<text x="338" y="88" font-size="14">- id: int</text>
+<text x="338" y="106" font-size="14">- resort: Resort</text>
+<text x="338" y="124" font-size="14">- title: str</text>
+<text x="338" y="142" font-size="14">- hotel_name: str</text>
+<text x="338" y="160" font-size="14">- nights: int</text>
+<text x="338" y="178" font-size="14">- adult_price: Decimal</text>
+<text x="338" y="196" font-size="14">- child_price: Decimal</text>
+<text x="338" y="214" font-size="14">- image_url: str</text>
+<text x="338" y="232" font-size="14">- is_active: bool</text>
+<rect x="670" y="20" width="300" height="234" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="820.0" y="40" text-anchor="middle" font-size="13">«model»</text>
+<text x="820.0" y="58" text-anchor="middle" font-weight="bold" font-size="15">Departure</text>
+<line x1="670" y1="68" x2="970" y2="68" stroke="#000"/>
+<text x="678" y="88" font-size="14">- id: int</text>
+<text x="678" y="106" font-size="14">- tour: Tour</text>
+<text x="678" y="124" font-size="14">- start_date: date</text>
+<text x="678" y="142" font-size="14">- end_date: date</text>
+<text x="678" y="160" font-size="14">- total_seats: int</text>
+<text x="678" y="178" font-size="14">- status: Status</text>
+<line x1="670" y1="188" x2="970" y2="188" stroke="#000"/>
+<text x="678" y="208" font-size="14">+ clean()</text>
+<text x="678" y="226" font-size="14">+ contains_period(start, end): bool</text>
+<text x="678" y="244" font-size="14">+ is_active(): bool</text>
+<rect x="20" y="330" width="250" height="168" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="145.0" y="350" text-anchor="middle" font-size="13">«model»</text>
+<text x="145.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">SkiPass</text>
+<line x1="20" y1="378" x2="270" y2="378" stroke="#000"/>
+<text x="28" y="398" font-size="14">- id: int</text>
+<text x="28" y="416" font-size="14">- resort: Resort</text>
+<text x="28" y="434" font-size="14">- category: Category</text>
+<text x="28" y="452" font-size="14">- duration_days: int</text>
+<text x="28" y="470" font-size="14">- price: Decimal</text>
+<text x="28" y="488" font-size="14">- is_active: bool</text>
+<rect x="330" y="330" width="270" height="168" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="465.0" y="350" text-anchor="middle" font-size="13">«model»</text>
+<text x="465.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">BookingSkiPass</text>
+<line x1="330" y1="378" x2="600" y2="378" stroke="#000"/>
+<text x="338" y="398" font-size="14">- id: int</text>
+<text x="338" y="416" font-size="14">- booking: Booking</text>
+<text x="338" y="434" font-size="14">- ski_pass: SkiPass</text>
+<text x="338" y="452" font-size="14">- start_date, end_date: date</text>
+<text x="338" y="470" font-size="14">- quantity: int</text>
+<text x="338" y="488" font-size="14">- unit_price, line_total: Decimal</text>
+<rect x="670" y="330" width="300" height="342" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="820.0" y="350" text-anchor="middle" font-size="13">«model»</text>
+<text x="820.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">Booking</text>
+<line x1="670" y1="378" x2="970" y2="378" stroke="#000"/>
+<text x="678" y="398" font-size="14">- id: int</text>
+<text x="678" y="416" font-size="14">- public_id: UUID</text>
+<text x="678" y="434" font-size="14">- code: str</text>
+<text x="678" y="452" font-size="14">- departure: Departure</text>
+<text x="678" y="470" font-size="14">- adults, children, infants: int</text>
+<text x="678" y="488" font-size="14">- first_name, last_name: str</text>
+<text x="678" y="506" font-size="14">- phone, email: str</text>
+<text x="678" y="524" font-size="14">- total_amount: Decimal</text>
+<text x="678" y="542" font-size="14">- status: Status</text>
+<text x="678" y="560" font-size="14">- created_at: datetime</text>
+<text x="678" y="578" font-size="14">- paid_at, confirmed_at: datetime</text>
+<text x="678" y="596" font-size="14">- cancelled_at: datetime</text>
+<text x="678" y="614" font-size="14">- cancelled_by: CancelledBy</text>
+<line x1="670" y1="624" x2="970" y2="624" stroke="#000"/>
+<text x="678" y="644" font-size="14">+ seats(): int</text>
+<text x="678" y="662" font-size="14">+ participants(): int</text>
+<rect x="1040" y="330" width="300" height="186" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1190.0" y="350" text-anchor="middle" font-size="13">«model»</text>
+<text x="1190.0" y="368" text-anchor="middle" font-weight="bold" font-size="15">SeatHold</text>
+<line x1="1040" y1="378" x2="1340" y2="378" stroke="#000"/>
+<text x="1048" y="398" font-size="14">- id: int</text>
+<text x="1048" y="416" font-size="14">- departure: Departure</text>
+<text x="1048" y="434" font-size="14">- booking: Booking</text>
+<text x="1048" y="452" font-size="14">- change_request: ChangeRequest</text>
+<text x="1048" y="470" font-size="14">- seats: int</text>
+<text x="1048" y="488" font-size="14">- expires_at: datetime</text>
+<text x="1048" y="506" font-size="14">- is_active: bool</text>
+<rect x="1040" y="580" width="300" height="252" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="1190.0" y="600" text-anchor="middle" font-size="13">«model»</text>
+<text x="1190.0" y="618" text-anchor="middle" font-weight="bold" font-size="15">ChangeRequest</text>
+<line x1="1040" y1="628" x2="1340" y2="628" stroke="#000"/>
+<text x="1048" y="648" font-size="14">- id: int</text>
+<text x="1048" y="666" font-size="14">- booking: Booking</text>
+<text x="1048" y="684" font-size="14">- new_departure: Departure</text>
+<text x="1048" y="702" font-size="14">- adults, children, infants: int</text>
+<text x="1048" y="720" font-size="14">- items: JSON</text>
+<text x="1048" y="738" font-size="14">- old_total, new_total: Decimal</text>
+<text x="1048" y="756" font-size="14">- difference: Decimal</text>
+<text x="1048" y="774" font-size="14">- status: Status</text>
+<text x="1048" y="792" font-size="14">- expires_at, applied_at: datetime</text>
+<line x1="1040" y1="802" x2="1340" y2="802" stroke="#000"/>
+<text x="1048" y="822" font-size="14">+ seats(): int</text>
+<rect x="20" y="525" width="250" height="180" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="145.0" y="545" text-anchor="middle" font-size="13">«model»</text>
+<text x="145.0" y="563" text-anchor="middle" font-weight="bold" font-size="15">Activity</text>
+<line x1="20" y1="573" x2="270" y2="573" stroke="#000"/>
+<text x="28" y="593" font-size="14">- id: int</text>
+<text x="28" y="611" font-size="14">- resort: Resort</text>
+<text x="28" y="629" font-size="14">- title: str</text>
+<text x="28" y="647" font-size="14">- price_per_person: Decimal</text>
+<text x="28" y="665" font-size="14">- is_active: bool</text>
+<line x1="20" y1="675" x2="270" y2="675" stroke="#000"/>
+<text x="28" y="695" font-size="14">+ is_available_at(resort_id): bool</text>
+<rect x="330" y="525" width="270" height="150" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="465.0" y="545" text-anchor="middle" font-size="13">«model»</text>
+<text x="465.0" y="563" text-anchor="middle" font-weight="bold" font-size="15">BookingActivity</text>
+<line x1="330" y1="573" x2="600" y2="573" stroke="#000"/>
+<text x="338" y="593" font-size="14">- id: int</text>
+<text x="338" y="611" font-size="14">- booking: Booking</text>
+<text x="338" y="629" font-size="14">- activity: Activity</text>
+<text x="338" y="647" font-size="14">- persons: int</text>
+<text x="338" y="665" font-size="14">- unit_price, line_total: Decimal</text>
+<rect x="730" y="740" width="240" height="204" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="850.0" y="760" text-anchor="middle" font-size="13">«model»</text>
+<text x="850.0" y="778" text-anchor="middle" font-weight="bold" font-size="15">Payment</text>
+<line x1="730" y1="788" x2="970" y2="788" stroke="#000"/>
+<text x="738" y="808" font-size="14">- id: int</text>
+<text x="738" y="826" font-size="14">- booking: Booking</text>
+<text x="738" y="844" font-size="14">- change_request: ChangeRequest</text>
+<text x="738" y="862" font-size="14">- kind: Kind</text>
+<text x="738" y="880" font-size="14">- amount: Decimal</text>
+<text x="738" y="898" font-size="14">- status: Status</text>
+<text x="738" y="916" font-size="14">- provider_ref: str</text>
+<text x="738" y="934" font-size="14">- paid_at: datetime</text>
+<rect x="670" y="1010" width="300" height="204" fill="#fff" stroke="#000" stroke-width="1.3"/>
+<text x="820.0" y="1030" text-anchor="middle" font-size="13">«model»</text>
+<text x="820.0" y="1048" text-anchor="middle" font-weight="bold" font-size="15">Refund</text>
+<line x1="670" y1="1058" x2="970" y2="1058" stroke="#000"/>
+<text x="678" y="1078" font-size="14">- id: int</text>
+<text x="678" y="1096" font-size="14">- booking: Booking</text>
+<text x="678" y="1114" font-size="14">- payment: Payment</text>
+<text x="678" y="1132" font-size="14">- amount: Decimal</text>
+<text x="678" y="1150" font-size="14">- reason: Reason</text>
+<text x="678" y="1168" font-size="14">- status: Status</text>
+<text x="678" y="1186" font-size="14">- error_message: str</text>
+<text x="678" y="1204" font-size="14">- processed_at: datetime</text>
+</g></svg>

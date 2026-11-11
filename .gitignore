@@ -1,0 +1,17 @@
+# Frontend
+node_modules/
+dist/
+
+# Python / Django
+__pycache__/
+*.pyc
+venv/
+.venv/
+db.sqlite3
+media/
+
+# Секрети
+.env
+
+# Mac
+.DS_Store
